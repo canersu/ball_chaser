@@ -43,6 +43,7 @@ $ sudo apt-get upgrade -y
 ```sh
 $ cd /home/user/ros_catkin_ws_dir/src/
 $ git clone https://github.com/canersu/ball_chaser.git
+```
 
 #### Step 3 Compile the code
 ```sh
