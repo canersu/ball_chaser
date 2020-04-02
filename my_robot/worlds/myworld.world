@@ -1822,28 +1822,7 @@
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
-      <model name='my_robot'>
-        <pose frame=''>6.6e-05 -0.00809 0.1 3e-06 0.000556 0.001476</pose>
-        <scale>1 1 1</scale>
-        <link name='left_wheel'>
-          <pose frame=''>-0.000155 0.14191 0.1 4e-06 0.001518 0.001476</pose>
-          <velocity>0.000391 -0.000995 0.009308 0.009945 0.003912 1e-06</velocity>
-          <acceleration>0.122172 -1.95659 18.622 0.900344 1.22157 0.004514</acceleration>
-          <wrench>0.610859 -9.78294 93.1098 0 -0 0</wrench>
-        </link>
-        <link name='right_wheel'>
-          <pose frame=''>0.000288 -0.158089 0.1 4e-06 0.00224 0.001476</pose>
-          <velocity>0.000392 -0.00098 0.006573 0.009803 0.003919 2e-06</velocity>
-          <acceleration>0.122365 -1.84724 13.1407 0.95766 1.22855 0.000289</acceleration>
-          <wrench>0.611827 -9.23621 65.7037 0 -0 0</wrench>
-        </link>
-        <link name='robot_footprint'>
-          <pose frame=''>6.6e-05 -0.00809 0.1 3e-06 0.000556 0.001476</pose>
-          <velocity>0.000392 -0.000981 0.007939 0.009739 0.003913 2e-06</velocity>
-          <acceleration>0.122341 -1.91186 15.877 0.5851 1.22321 0.003798</acceleration>
-          <wrench>1.84735 -28.8691 239.743 0 -0 0</wrench>
-        </link>
-      </model>
+
       <model name='myhouse'>
         <pose frame=''>-1.15663 2.10387 0 0 -0 0</pose>
         <scale>1 1 1</scale>
